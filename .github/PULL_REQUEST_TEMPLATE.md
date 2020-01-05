@@ -1,10 +1,12 @@
 ## Task Details
 
-Assigned By: (Who assigned you this task)
+Assigned By: (Whoever assigned you this task)
 
-Task Summary: (sum up your proposed changes in a few sentences)
+Context: (Describe why you implemented these changes and what your code aims to solve)
 
-Fixes: (add if your changes fixes any issues)
+Task Summary: (Summarize your proposed changes in a few sentences)
+
+Fixes: (Are there any bugs your changes will fix? Any improvements to the overall product? Reference any open issues, if applicable.)
 
 ### Who does these changes affect?
 
@@ -17,5 +19,5 @@ Fixes: (add if your changes fixes any issues)
 - [ ] Web Dashboard Development
 
 ### Other Requirements:
-- [ ] Changes are consistant with all Nize Security Standards
-- [ ] All Checks/Test Cases Pass
+- [ ] Changes are consistent with all Nize security standards
+- [ ] All checks/test cases pass
