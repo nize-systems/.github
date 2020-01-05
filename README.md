@@ -1,2 +1,2 @@
-# .github
-Nize Systems organization configuration repository.
+# Nize Systems Configuration
+GitHub organization configuration repository.
