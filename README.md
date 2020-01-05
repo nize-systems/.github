@@ -1,2 +1,2 @@
 # .github
-Nize Systems organization configuration folder.
+Nize Systems organization configuration repository.
