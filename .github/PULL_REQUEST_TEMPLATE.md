@@ -1,12 +1,12 @@
 ## Task Details
 
-Assigned By: (Whoever assigned you this task)
+**Assigned By**: (Whoever assigned you this task)
 
-Context: (Describe why you implemented these changes and what your code aims to solve)
+**Context**: (Describe why you implemented these changes and what your code aims to solve)
 
-Task Summary: (Summarize your proposed changes in a few sentences)
+**Task Summary**: (Summarize your proposed changes in a few sentences)
 
-Fixes: (Are there any bugs your changes will fix? Any improvements to the overall product? Reference any open issues, if applicable.)
+**Fixes**: (Are there any bugs your changes will fix? Any improvements to the overall product? Reference any open issues, if applicable.)
 
 ### Who does these changes affect?
 
