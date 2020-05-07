@@ -17,6 +17,8 @@
 - [ ] Android Application Development
 - [ ] PresenceOS Development
 - [ ] Web Dashboard Development
+- [ ] Marketing Website Development
+- [ ] Other: (name of project/category here)
 
 ### Other Requirements:
 - [ ] Changes are consistent with all Nize security standards
