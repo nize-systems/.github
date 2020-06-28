@@ -18,6 +18,8 @@
 - [ ] PresenceOS Development
 - [ ] Web Dashboard Development
 - [ ] Marketing Website Development
+- [ ] Corporate Website Development
+- [ ] Analytics Development
 - [ ] Other: (name of project/category here)
 
 ### Other Requirements:
